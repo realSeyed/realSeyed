@@ -8,12 +8,7 @@
 
 <h1 align="center">Mohammad Hossein Mousavi</h1>
 
-<h2 align="center">Mobile Developer</h2>
-
-<h4 align="center">
-  I build cross-platform mobile apps with Flutter &amp; Dart.<br/>
-  I also work with JavaScript &amp; Node.js, and I am at home on Linux.
-</h4>
+<h2 align="center">Mobile Developer building cross-platform applications with Flutter &amp; Dart</h2>
 
 <p align="center">
   <a href="https://github.com/realSeyed">
