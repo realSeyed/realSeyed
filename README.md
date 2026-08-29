@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,linux,git,github,vscode,androidstudio" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,linux,git,github,androidstudio,figma" alt="tech stack"/>
 </p>
 
 <p align="center">
