@@ -6,12 +6,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=%20Welcome!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
 </p>
 
-<p align="center">
-  <b>• Mohammad Hossein Mousavi •</b>
-</p>
-<p align="center">
-  <b>• Mobile Developer •</b>
-</p>
+<h1 align="center">Mohammad Hossein Mousavi</h1>
+
+<h2 align="center">Mobile Developer</h2>
+
+<h4 align="center">
+  I build cross-platform mobile apps with Flutter &amp; Dart.<br/>
+  I also work with JavaScript &amp; Node.js, and I am at home on Linux.
+</h4>
 
 <p align="center">
   <a href="https://github.com/realSeyed">
@@ -48,16 +50,8 @@
 
 <br/>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/realSeyed/realSeyed/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
-
-<br/>
-
-<p align="center">
-  ⭐ If you find something interesting, consider starring the repository.
-</p>
