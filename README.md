@@ -6,9 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=%20Welcome!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="banner"/>
 </p>
 
-<h1 align="center">Mohammad Hossein Mousavi</h1>
-
-<h2 align="center">Mobile Developer building cross-platform applications with Flutter &amp; Dart</h2>
+<h1 align="center">
+  Mohammad Hossein Mousavi<br/>
+  <sub>Mobile Developer building cross-platform applications with Flutter &amp; Dart</sub>
+</h1>
 
 <p align="center">
   <a href="https://github.com/realSeyed">
